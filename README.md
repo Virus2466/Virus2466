@@ -7,10 +7,11 @@ Here are some ideas to get you started:
 
 
 -->
-
-- 🔭 I’m currently working on ...
+💻 | Front-End Dev | Linux | Cloud | 🎮
+- 
 - 🌱 I’m currently learning Linux
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 😄 Pronouns: he/him
+
+
 - 📫 How to reach me:
+- - [Twitter](https://twitter.com/Devp2466)
