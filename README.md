@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me:
-- - [Twitter](https://twitter.com/Devp2466)
+-  [Twitter](https://twitter.com/Devp2466)
